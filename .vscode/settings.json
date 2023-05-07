@@ -4,6 +4,7 @@
     ".stylelintrc": "json",
     ".prettierrc": "json",
     "*.tsx": "typescriptreact",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "unistd.h": "c"
   }
 }
